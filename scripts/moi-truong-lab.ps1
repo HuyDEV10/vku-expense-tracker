@@ -1,4 +1,4 @@
-param(
+﻿param(
     [string]$FlutterRoot = $env:FLUTTER_ROOT,
     [string]$AndroidSdk = "$env:LOCALAPPDATA\Android\Sdk",
     [string]$Jdk = 'C:\Program Files\Android\Android Studio\jbr',

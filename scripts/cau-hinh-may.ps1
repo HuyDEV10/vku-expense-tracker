@@ -1,4 +1,4 @@
-param([string]$FlutterRoot = $env:FLUTTER_ROOT, [string]$AndroidSdk = "$env:LOCALAPPDATA\Android\Sdk", [string]$Jdk = 'C:\Program Files\Android\Android Studio\jbr', [string]$TrustStore = '')
+﻿param([string]$FlutterRoot = $env:FLUTTER_ROOT, [string]$AndroidSdk = "$env:LOCALAPPDATA\Android\Sdk", [string]$Jdk = 'C:\Program Files\Android\Android Studio\jbr', [string]$TrustStore = '')
 $ErrorActionPreference = 'Stop'
 . (Join-Path $PSScriptRoot 'moi-truong-lab.ps1') -FlutterRoot $FlutterRoot -AndroidSdk $AndroidSdk -Jdk $Jdk -TrustStore $TrustStore
 # Cấu hình PATH cho người dùng hiện tại.

@@ -1,4 +1,4 @@
-param([string]$DeviceId = "emulator-5554")
+﻿param([string]$DeviceId = "emulator-5554")
 
 $ErrorActionPreference = "Stop"
 Set-Location (Split-Path $PSScriptRoot -Parent)
