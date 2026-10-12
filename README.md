@@ -10,7 +10,7 @@ Nguyễn Đăng Đức Huy - MSSV 23IT101 - Lớp 23JIT.
 - [Báo cáo PDF](docs/Bao-cao-Lab-3.pdf) và [bản Markdown](docs/Mini-Project-3-Report.md)
 - [Kết quả kiểm tra](docs/KET_QUA_KIEM_THU.md)
 - [Hướng dẫn chạy và nộp bài](HUONG_DAN_LAB_3.md)
-- [Trang tải bản phát hành](https://github.com/HuyDEV10/vku-expense-tracker/releases). APK cần được đính kèm vào Release; đường dẫn này không thay thế file APK khi chưa có asset.
+- [Tải APK Android v1.0.0](https://github.com/HuyDEV10/vku-expense-tracker/releases/download/v1.0.0/app-release.apk) - 95.577.582 byte.
 
 ## Chức năng
 

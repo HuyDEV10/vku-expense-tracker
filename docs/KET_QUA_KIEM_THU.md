@@ -34,3 +34,9 @@ Transcript Windows `kiem-tra-anh.log` báo “Hai ảnh PNG đã qua kiểm tra�
 Giả lập phần mềm API 28 từng nhận dạng được tổng 150000 và ngày 09/10/2026, nhưng dừng khi giải mã PNG để tạo thumbnail. Thời gian OCR mỗi lần khoảng 7,8-15,2 giây. Ảnh PNG giống nguồn từng byte và giải mã được trên Linux. Luồng giao diện Windows API 35 hiện lưu ảnh thành công; chưa chạy lại chính xác phép thử API 28 để kết luận lỗi gốc đã được xử lý.
 
 Lỗi Dart resolvedExecutable null trong console Windows thuộc phiên môi trường chạy trước khi chuyển sang PowerShell thường. Sau đó APK đã build và cài thành công. Không đưa lỗi môi trường cũ thành lỗi hiện tại của ứng dụng.
+
+## Bản phát hành v1.0.0
+
+Release công khai ngày 12/10/2026 có asset app-release.apk ở trạng thái uploaded, dung lượng 95.577.582 byte, khớp dung lượng trong log build Windows. SHA-256 do GitHub cung cấp: `229834c2437a0bff70692b81ab509967dfecbafc84e9d28387de107d8fe0a323`. Đây là đối chiếu metadata; chưa tải APK về để tính lại hash hoặc cài thử file từ Release.
+
+[Tải APK](https://github.com/HuyDEV10/vku-expense-tracker/releases/download/v1.0.0/app-release.apk).

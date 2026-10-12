@@ -49,7 +49,7 @@ Video demo: [https://drive.google.com/file/d/1SFfTw9aHJyJMmaXVnUevoHFL-DHhIzwU/v
 
 ## 5. Xuất bản và nộp
 
-Mã nguồn: [https://github.com/HuyDEV10/vku-expense-tracker](https://github.com/HuyDEV10/vku-expense-tracker). Đăng đúng APK đã thử lên GitHub Releases: Releases > Draft a new release > tag v1.0.0 > nhánh main > tiêu đề Lab 3 - Sổ chi tiêu VKU > đính kèm app-release.apk > Publish release. Sau khi asset có trên trang, sao chép link tải thực tế; không dùng link giả định trước khi upload.
+Mã nguồn: [https://github.com/HuyDEV10/vku-expense-tracker](https://github.com/HuyDEV10/vku-expense-tracker). Đăng đúng APK đã thử lên GitHub Releases: Releases > Draft a new release > tag v1.0.0 > nhánh main > tiêu đề Lab 3 - Sổ chi tiêu VKU > đính kèm app-release.apk > Publish release. Bản v1.0.0 đã có asset: [tải APK](https://github.com/HuyDEV10/vku-expense-tracker/releases/download/v1.0.0/app-release.apk).
 
 Báo cáo theo năm mục trong docs/Mini-Project-3-Report.md. PDF được tạo bằng:
 
@@ -58,4 +58,4 @@ python -m pip install reportlab pillow
 python .\scripts\build_report.py
 ```
 
-Nộp link GitHub, link APK trực tiếp, link video và PDF 2-4 trang. Trước khi nộp, cập nhật trạng thái APK trong báo cáo theo release thực tế và chỉ đánh dấu các mục đã có kết quả kiểm tra.
+Nộp link GitHub, link APK trực tiếp, link video và PDF 2-4 trang. Trước khi nộp, kiểm tra link APK và video mở được; chỉ đánh dấu các mục đã có kết quả kiểm tra.

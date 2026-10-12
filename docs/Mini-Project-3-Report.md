@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Nguyễn Đăng Đức Huy | 23IT101 | 23JIT | Flutter, camera, OCR, Isar, biểu đồ và kiểm thử |
 
-Repository: [HuyDEV10/vku-expense-tracker](https://github.com/HuyDEV10/vku-expense-tracker). Video: [Demo Lab 3](https://drive.google.com/file/d/1SFfTw9aHJyJMmaXVnUevoHFL-DHhIzwU/view). APK: đã build và cài trên giả lập; [trang Releases](https://github.com/HuyDEV10/vku-expense-tracker/releases) là nơi đăng file, chưa xác nhận có asset tải xuống tại thời điểm lập báo cáo. Ngày cập nhật: 12/10/2026.
+Repository: [HuyDEV10/vku-expense-tracker](https://github.com/HuyDEV10/vku-expense-tracker). Video: [Demo Lab 3](https://drive.google.com/file/d/1SFfTw9aHJyJMmaXVnUevoHFL-DHhIzwU/view). APK: [Tải bản Android v1.0.0](https://github.com/HuyDEV10/vku-expense-tracker/releases/download/v1.0.0/app-release.apk), 95.577.582 byte; đã build và cài trên giả lập. Ngày cập nhật: 12/10/2026.
 
 ## 2. FEATURE CHECKLIST
 
